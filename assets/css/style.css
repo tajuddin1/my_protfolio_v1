@@ -222,7 +222,7 @@
 
 .banner-bottom {
   background: rgb(255, 255, 255);
-  padding: 20px 0px;
+  padding: 40px 0px 20px;
   position: relative;
   border-bottom: 1px solid rgb(250, 250, 250);
 }
@@ -894,7 +894,7 @@ body .shape-bottom {
 
 .blog-page .section-wrapper .sidebar-widget .post-catagori ul li a::before {
   position: absolute;
-  content: "";
+  content: "î«‡";
   font-weight: 600;
   font-size: 12px;
   top: 50%;
@@ -1868,7 +1868,7 @@ body .shape-bottom {
   transform: translateY(-50%);
   color: rgb(255, 65, 129);
   font-size: 20px;
-  content: "" !important;
+  content: "î»–" !important;
   font-family: IcoFont !important;
 }
 
@@ -1929,7 +1929,7 @@ body .shape-bottom {
   padding-right: 5px;
   color: rgb(112, 198, 215);
   position: absolute;
-  content: "";
+  content: "î»–";
   top: 50%;
   left: 0px;
   transform: translateY(-50%);
@@ -1942,7 +1942,7 @@ body .shape-bottom {
 
 .pricing.style-2 .section-wrapper .price-item .price-item-inner .pricing-list li.del::before {
   position: absolute;
-  content: "";
+  content: "î»¡";
   color: rgb(253, 61, 107);
   top: 50%;
   left: 0px;
@@ -2345,11 +2345,11 @@ body .shape-bottom {
 }
 
 .contact .section-wrapper form .form-group input {
-  border-color: rgb(236, 236, 236);
+  border-color: rgb(255 75 124 / 30%);
 }
 
 .contact .section-wrapper form .form-group textarea {
-  border-color: rgb(236, 236, 236);
+  border-color: rgb(255 75 124 / 30%);
   margin-bottom: 30px;
 }
 
