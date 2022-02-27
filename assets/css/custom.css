@@ -20,3 +20,12 @@
 .header-logo {
     padding-top: 5px;
 }
+section#Clients::before {
+    content: '';
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    background: #000000ad;
+    opacity: 0.6;
+}
